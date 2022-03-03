@@ -1,0 +1,19 @@
+LAnguages used :
+-Python 3.9 version
+
+Used Libraries/frameworks:
+-Tensorflow-gpu
+-Keras
+-Numpy
+-OpenCV
+-Cvlib
+used modules/methods:
+-glob
+-os
+
+ - Downloaded a dataset contains about 59107 sorted images in jpg format
+ -it contains train(46486) and test(11617) categories
+ -accuracy up to 96.0 %
+ -used CNN algorithm,
+ -used GPU to train the model 
+ 
