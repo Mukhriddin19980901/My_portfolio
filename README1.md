@@ -17,3 +17,13 @@ Description:
    >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/man.png?raw=true
    >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/women2.png?raw=true
     
+
+# 2-Corona detection project using chest xray images
+  LANGUAGES USED : Python 3.9v,
+  frameworks : Tensorflow==2.5,,OpenCV
+  libraries used:,Numpy,Keras
+ - The data I have used includes the healthy and infected people's chest xrays.
+ - In this project I have used a small amount of data but the accuracy level is high.
+  Because I have used data augmentation function to multiply the nuimber of images by 
+  rotating every images as to get  different images.
+ - Using CNN have increased the efficiency of tests
