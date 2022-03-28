@@ -30,3 +30,11 @@ Souce of code on my profile gender detection repository
  - Using CNN have increased the efficiency of tests
  A diagram of loss and accuracy rate,click here: 
  >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/corona%20detection.png
+# 3 - the possibility of Heart attack
+ LANGUAGES USED : Python 3.9v,
+ frameworks : Pytorch,
+ libraries used:Numpy
+ - I tried to predict heart attack risk at  different ages and health conditions
+ - The Model relies on Linear Regression function on Pytorch
+ - Optimizer Adam and activation function sigmoid is very helpful to classify the data
+ >> 
