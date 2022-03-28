@@ -27,3 +27,5 @@ Description:
   Because I have used data augmentation function to multiply the nuimber of images by 
   rotating every images as to get  different images.
  - Using CNN have increased the efficiency of tests
+ A diagram of loss and accuracy rate,click here: 
+ >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/corona%20detection.png
