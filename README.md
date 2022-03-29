@@ -14,7 +14,7 @@ Description:
 - This model can be used for many purposes such as public security,statistics and so on.
 Souce of code on my profile gender detection repository
    
-   >>Here are some examples :
+   >> Here are some examples :
    >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/man.png?raw=" width="600" height="400" />
    >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/women2.png?raw=true" width="600" height="400" /> 
   
