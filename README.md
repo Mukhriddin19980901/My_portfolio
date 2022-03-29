@@ -32,7 +32,8 @@ Souce of code on my profile gender detection repository
   rotating every images as to get  different images.
  - Using CNN have increased the efficiency of tests
  A diagram of loss and accuracy rate,click here: 
- >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/corona%20detection.png
+ >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/corona%20detection.png" width="700" height="600" />
+
 # 3 - the possibility of Heart attack
  LANGUAGES USED : Python 3.9v,
  frameworks : Pytorch,
