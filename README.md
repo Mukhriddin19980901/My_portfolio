@@ -12,7 +12,8 @@ Description:
 - I have used cvlib library - a very effective library for face detection
 - The accuracy rate is about 96% on average.
 - This model can be used for many purposes such as public security,statistics and so on.
-Souce of code on my profile gender detection repository
+Souce of code is here:
+https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-aniqlovchi-1-Suniy-intellect-loyiham/blob/main/gender%20detection%20project.py
    
    >> Here are some examples 
    >> 
