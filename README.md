@@ -1,7 +1,7 @@
 # My_portfolio
 Some of my main projects via Computer Vision
 
-# 1-project-.-Gender-detection project.(male,female)
+# 1.Gender-detection project.(male,female)
 LANGUAGES USED : Python 3.9v,
 frameworks : Tensorflow==2.5,,OpenCV
 libraries used:,Numpy,Keras
@@ -22,7 +22,7 @@ Souce of code on my profile gender detection repository
 
     
 
-# 2-Corona detection project using chest xray images
+# 2.Corona detection project using chest xray images
   LANGUAGES USED : Python 3.9v,
   frameworks : Tensorflow==2.5,,OpenCV
   libraries used:,Numpy,Keras
@@ -34,7 +34,7 @@ Souce of code on my profile gender detection repository
  A diagram of loss and accuracy rate,click here: 
  >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/corona%20detection.png" width="700" height="600" />
 
-# 3 - the possibility of Heart attack
+# 3.The possibility of heart attack
  LANGUAGES USED : Python 3.9v,
  frameworks : Pytorch,
  libraries used:Numpy
