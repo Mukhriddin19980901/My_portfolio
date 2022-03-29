@@ -42,4 +42,4 @@ Souce of code on my profile gender detection repository
  - The Model relies on Linear Regression function on Pytorch
  - Optimizer Adam and activation function sigmoid is very helpful to classify the data
  here is a link to see the difference of loss and accuracy
- >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart%20attack.png
+ >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart%20attack.png" width="700" height="600" />
