@@ -17,6 +17,8 @@ Souce of code on my profile gender detection repository
    >>Here are some examples :
    >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/man.png?raw=true
    >> https://github.com/Mukhriddin19980901/My_portfolio/blob/main/women2.png?raw=true
+  
+
     
 
 # 2-Corona detection project using chest xray images
