@@ -46,4 +46,4 @@ https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-a
  - Optimizer Adam and activation function sigmoid is very helpful to classify the data
  - here is a code : https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart%20cancer%20rate%20(1).py
  here is a link to see the difference of loss and accuracy
- >> <img src="" width="700" height="600" />
+ >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart.png" width="700" height="600" />
