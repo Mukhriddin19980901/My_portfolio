@@ -32,7 +32,7 @@ https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-a
   Because I have used data augmentation function to multiply the nuimber of images by 
   rotating every images as to get  different images.
  - Using CNN have increased the efficiency of tests
- - <img src="" width="700" height="600" />
+ - <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/cnn.jpg" width="700" height="600" />
  - For code:
   https://github.com/Mukhriddin19980901/My_portfolio/blob/main/corona_project.py
  A diagram of loss and accuracy rate,click here: 
