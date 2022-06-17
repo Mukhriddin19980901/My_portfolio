@@ -48,3 +48,9 @@ https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-a
  - here is a code : https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart%20cancer%20rate%20(1).py
  here is a link to see the difference of loss and accuracy
  >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart.png" width="700" height="600" />
+
+# 4 Backgound removal 
+ Opencv and cvzone libraries used to remove the background
+  
+ by increase or decreasing threshold we can cut more or less regarding the quality of your cameras
+ <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="640" height="640" />
