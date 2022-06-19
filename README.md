@@ -55,6 +55,8 @@ https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-a
  by increase or decreasing threshold we can cut more or less regarding the quality of your cameras
  <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="640" height="640" />
  
+ code here : https://github.com/Mukhriddin19980901/Backgound_remover
+ 
  
  
  # 5 Mask_detection
@@ -66,6 +68,8 @@ used libraries : opencv , cvlib , numpy , tensorflow , keras
 model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
 loss : 11 % 
+
+
 
 find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
 
