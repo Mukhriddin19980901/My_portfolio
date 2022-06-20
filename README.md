@@ -76,9 +76,11 @@ model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
 loss : 11 % 
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> ,
+
 <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png
 " width="500" height="500" /> 
+
 <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png
 " width="500" height="500" /> 
  
