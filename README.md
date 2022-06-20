@@ -48,19 +48,26 @@ https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-a
  - here is a code : https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart%20cancer%20rate%20(1).py
  here is a link to see the difference of loss and accuracy
  >> <img src="https://github.com/Mukhriddin19980901/My_portfolio/blob/main/heart.png" width="700" height="600" />
+ 
+ # 4 Tashkent_housing_prediction_of_prices
+ 
+ #Tashkent_houses_price_prediction
 
-# 4 Backgound removal 
- Opencv and cvzone libraries used to remove the background
-  
- by increase or decreasing threshold we can cut more or less regarding the quality of your cameras
- <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="640" height="640" />
- 
- code here : https://github.com/Mukhriddin19980901/Backgound_remover
- 
+Toshkent turar joy va kvartira narxlari bashoratlari
+
+Umumiy narxlar markaziy hududlarda anchagina qimmatroq, yuqori qavatlar esa biroz arzonroq ekan.
+
+<img src="https://github.com/Mukhriddin19980901/Price_prediction/blob/main/tashkent_uy_seaborn.png" width="500" height="500" /> 
+
+matplotlib orqali : 
+
+<img src="https://github.com/Mukhriddin19980901/Price_prediction/blob/main/plot_price.png" width="500" height="500" /> 
+ here is a code : https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction
  
  
  # 5 Mask_detection
 insonni maska taqqan yoki taqmaganligini aniqlash uchun 
+mask wearing detection
 
 Language : Python
 used libraries : opencv , cvlib , numpy , tensorflow , keras
@@ -69,8 +76,21 @@ model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
 loss : 11 % 
 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png
+" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png
+" width="500" height="500" /> 
+ 
 
 
 find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
 
-
+# 6 Backgound removal 
+ Opencv and cvzone libraries used to remove the background
+  
+ by increase or decreasing threshold we can cut more or less regarding the quality of your cameras
+ <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="640" height="640" />
+ 
+ code here : https://github.com/Mukhriddin19980901/Backgound_remover
+ 
