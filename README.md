@@ -78,13 +78,9 @@ loss : 11 %
 
 <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> ,
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png
-" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="500" height="500" /> ,
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png
-" width="500" height="500" /> 
- 
-
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_mask.png" width="500" height="500" /> 
 
 find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
 
