@@ -67,22 +67,22 @@ matplotlib orqali :
  
  
  # 5 Mask_detection
+# Mask_detection
 insonni maska taqqan yoki taqmaganligini aniqlash uchun 
-mask wearing detection
 
 Language : Python
 used libraries : opencv , cvlib , numpy , tensorflow , keras
 
 model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
-loss : 11 % 
+loss : 21 % 
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> ,
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png" width="500" height="500" /> 
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="500" height="500" /> ,
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> 
 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="500" height="500" /> 
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_mask.png" width="500" height="500" /> ,
 
 find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
 
