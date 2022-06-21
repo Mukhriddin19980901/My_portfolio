@@ -90,7 +90,7 @@ find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
  Opencv and cvzone libraries used to remove the background
   
  by increase or decreasing threshold we can cut more or less regarding the quality of your cameras
- <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="640" height="640" />
+ <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="640" height="480" />
  
  code here : https://github.com/Mukhriddin19980901/Backgound_remover
  
