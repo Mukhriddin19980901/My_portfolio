@@ -54,13 +54,12 @@ https://github.com/Mukhriddin19980901/1-real-project-.-Gender-detection-jinsni-a
  
  #Tashkent_houses_price_prediction
 
-Toshkent turar joy va kvartira narxlari bashoratlari
+-Predictions of  accomodation prices in Tashkent city ,Uzbekistan
 
-Umumiy narxlar markaziy hududlarda anchagina qimmatroq, yuqori qavatlar esa biroz arzonroq ekan.
+-The model worked with above 90%  accuracy rate.
+-Matplotlib is a common library to visualize the data and the results.
 
 <img src="https://github.com/Mukhriddin19980901/Price_prediction/blob/main/tashkent_uy_seaborn.png" width="500" height="500" /> 
-
-matplotlib orqali : 
 
 <img src="https://github.com/Mukhriddin19980901/Price_prediction/blob/main/plot_price.png" width="500" height="500" /> 
  here is a code : https://github.com/Mukhriddin19980901/Tashkent_housing_price_prediction
@@ -68,7 +67,11 @@ matplotlib orqali :
  
  # 5 Mask_detection
 # Mask_detection
-insonni maska taqqan yoki taqmaganligini aniqlash uchun 
+-During the quarantine after COVID19 pandemic,most of the countries made it obligatory to wear masks in public places
+
+-Mask detection model can easily checks either people wore a mask 
+
+-This model can detect the violation of law 
 
 Language : Python
 used libraries : opencv , cvlib , numpy , tensorflow , keras
@@ -77,8 +80,7 @@ model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
 loss : 21 % 
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png" width="300" height="300" /> 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="300" height="300" /> <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="300" height="300" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png" width="300" height="300" /> <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="300" height="300" />  <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="300" height="300" /> 
 
 
 find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
@@ -94,17 +96,17 @@ find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
  
  # 7 sign_language_asl-alphabet
 
-Asl alphabet hand gestures recognition project was built to understand the letter(s) from specific hand gestures.
+-Asl alphabet hand gestures recognition project was built to understand the letter(s) from specific hand gestures.
 
-GPU model runtime : 17 mins 43 seconds 
+-GPU model runtime : 17 mins 43 seconds 
 
-Dedicated Memory should be  at least 16 GB
+-Dedicated Memory should be  at least 16 GB
 
-It was built through neural networks
+-It was built through neural networks
 
-Used language  : Python
+-Used language  : Python
 
-Libraries  : OpenCv,Tensorflow,Keras,Numpy
+-Libraries  : OpenCv,Tensorflow,Keras,Numpy
 
 
 <img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/A_test.jpg " width="250" height="250" /><img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/B_test.jpg " width="250" height="250" /><img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/Z_test.jpg " width="250" height="250" />
