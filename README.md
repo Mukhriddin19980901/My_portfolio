@@ -77,11 +77,8 @@ model built : Neural networks using keras sequential
 accuracy rate  : 91 % 
 loss : 21 % 
 
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png" width="500" height="500" /> 
-
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="500" height="500" /> 
-
-<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="500" height="500" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/no_masks.png" width="300" height="300" /> 
+<img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/mask.png" width="300" height="300" /> <img src="https://github.com/Mukhriddin19980901/Mask_detection/blob/main/wrong_mask.png" width="300" height="300" /> 
 
 
 find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
@@ -90,6 +87,7 @@ find my code from here : https://github.com/Mukhriddin19980901/Mask_detection
  Opencv and cvzone libraries used to remove the background
   
  by increase or decreasing threshold we can cut more or less regarding the quality of your cameras
+ 
  <img src="https://github.com/Mukhriddin19980901/Backgound_remover/blob/main/Screenshot%20(148).png" width="300" height="300" />
  
  code here : https://github.com/Mukhriddin19980901/Backgound_remover
